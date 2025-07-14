@@ -1,13 +1,13 @@
 ## 👋 Hi there, I'm Rakesh Singh
 
-### 🌐 Portfolio:
+###  Portfolio:
 - Personal Website: [rakeshinfo.xyz](https://rakeshinfo.xyz)
 - GitHub: [github.com/Rakesh04107](https://github.com/Rakesh04107)
 - LinkedIn: [linkedin.com/in/rakesh-singh](https://www.linkedin.com/in/rakesh-singh-0113a1186/)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔒 SIEM Pipeline – Cloud-Native Security Monitoring
 A fully automated SIEM and incident response pipeline for microservices using:
@@ -49,13 +49,13 @@ A fully automated SIEM and incident response pipeline for microservices using:
 ---
 
 ## 📜 Certifications
-- 🧪 GitHub Actions Masterclass
-- 🧠 AWS Cloud Practitioner  
-- 🛡️ AWS Solutions Architect – Associate  
-- 🚀 Introduction to DevOps  
-- 🔧 DevOps on AWS and Project Management  
-- 🧪 DevOps Beginner to Advanced with Projects  
-- 🛡️ Cyber Security Awareness Programme  
+-  GitHub Actions Masterclass
+-  AWS Cloud Practitioner  
+-  AWS Solutions Architect – Associate  
+-  Introduction to DevOps  
+-  DevOps on AWS and Project Management  
+-  DevOps Beginner to Advanced with Projects  
+-  Cyber Security Awareness Programme  
 
 ---
 
