@@ -3,7 +3,7 @@
 ###  Portfolio:
 - Personal Website: [rakeshinfo.xyz](https://rakeshinfo.xyz)
 - GitHub: [github.com/Rakesh04107](https://github.com/Rakesh04107)
-- LinkedIn: [linkedin.com/in/rakesh-singh](https://www.linkedin.com/in/rakesh-singh-0113a1186/)
+- LinkedIn: [linkedin.com/in/rakesh-singh](https://www.linkedin.com/in/rakesh-singh-devops/)
 
 ---
 
