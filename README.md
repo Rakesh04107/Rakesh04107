@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Rakesh Singh, DevOps Engineer/Cloud Specialist & Problem Solver.
+## 👋 Hi there, I'm Rakesh Singh, DevOps/Cloud Specialist Engineer & Problem Solver.
 
 ###  Portfolio:
 - Personal Website: [rakeshinfo.xyz](https://rakeshinfo.xyz)
